@@ -1,5 +1,5 @@
 
-# Bill Extraction Using LLM Models
+# Bill Extraction Using Paddle OCR & LLM Models
 
 ## Overview
 
